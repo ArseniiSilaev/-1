@@ -1,0 +1,26 @@
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace дз
+{
+    internal class Program
+    {
+        static void Main(string[] args)
+        {
+            bool armorPresence;
+            byte playersLevel;
+            sbyte healthOfVillage;
+            int health;
+            uint amountTrophies;
+            long gold;
+            string name;
+            char playerCategory;
+            float distanceToVillage;
+            double gameProgress;
+
+        }
+    }
+}
